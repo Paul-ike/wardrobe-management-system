@@ -13,7 +13,7 @@ This project was created by:
 
 ## Live Deployment Links
 
-- **Frontend Live URL**: [Frontend Live URL](https://wardrobe-management-frontend.vercel.app/login)
+- **Frontend Live URL**: [Frontend Live URL](https://wardrobe-management-frontend.vercel.app)
 
 - **Backend Live URL**: [Backend Live URL](https://wardrobe-management-o2bd.onrender.com/api)
 
